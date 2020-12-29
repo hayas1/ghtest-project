@@ -1,1 +1,1 @@
-initSidebarItems({});
+initSidebarItems({"fn":[["sub","a - b を計算します"]]});
